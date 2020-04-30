@@ -14,4 +14,4 @@
  **Обчислити суму елементів матриці розміром N x M**
  
 ## Результат роботи програми
-<img src="https://github.com/ppc-ntu-khpi/masivi-34-idjis/blob/master/massiv.png" width="40%"/>
+<img src="https://github.com/ppc-ntu-khpi/masivi-34-idjis/blob/master/massiv.PNG" width="40%"/>
