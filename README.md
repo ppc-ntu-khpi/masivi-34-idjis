@@ -12,3 +12,6 @@
 
 ## Обране завдання
 **Обчислити суму елементів матриці розміром N x M**
+
+## Результат роботи програми
+<img src="https://github.com/ppc-ntu-khpi/virazi-keruvannya-34-idjis/blob/master/result.png" width="40%"/>
